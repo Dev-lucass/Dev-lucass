@@ -20,7 +20,5 @@ Tenho perfil voltado ao aprendizado contínuo, com foco em boas práticas, organ
 
 ---
 
-### 📫 Contato
-
 🔗 LinkedIn  
 https://www.linkedin.com/in/lucas-guimarães-bitencourt-28a849358
