@@ -9,7 +9,6 @@ Tenho perfil voltado ao aprendizado contínuo, com foco em boas práticas, organ
 <div align="center">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
